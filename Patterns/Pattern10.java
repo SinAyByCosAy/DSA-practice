@@ -1,3 +1,25 @@
+/*
+Input Format: N = 3
+Result:
+  *
+  **
+  ***
+  **
+  *
+Input Format: N = 6
+Result:
+     *
+     **
+     ***
+     ****
+     *****
+     ******
+     *****
+     ****
+     ***
+     **
+     *
+ */
 package StriverPractice.Patterns;
 
 import java.util.Scanner;
