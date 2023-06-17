@@ -16,3 +16,5 @@ public class Fibonacci {
         return fibo(n-1) + fibo(n-2);
     }
 }
+//TC -> O(2^N)
+//SC -> O(N)
