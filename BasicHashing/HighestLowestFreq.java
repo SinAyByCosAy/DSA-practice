@@ -12,6 +12,7 @@ Explanation: The frequency of 2 is 3, i.e. the highest and the frequency of 3 is
  */
 package StriverPractice.BasicHashing;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
