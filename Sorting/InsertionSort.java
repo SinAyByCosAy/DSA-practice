@@ -33,3 +33,6 @@ public class InsertionSort {
         System.out.println(Arrays.toString(arr));
     }
 }
+
+//TC -> O(N^2)
+//SC -> O(1)
