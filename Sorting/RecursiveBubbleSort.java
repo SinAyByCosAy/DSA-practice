@@ -37,3 +37,5 @@ public class RecursiveBubbleSort {
         arr[j] = t;
     }
 }
+//TC -> O(N^2)
+//SC -> O(N)
