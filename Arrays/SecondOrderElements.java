@@ -36,3 +36,5 @@ public class SecondOrderElements {
         System.out.println(Arrays.toString(result));
     }
 }
+//TC -> O(N)
+//SC -> O(1)
