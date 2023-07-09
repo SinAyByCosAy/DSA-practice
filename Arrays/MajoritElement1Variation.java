@@ -49,8 +49,7 @@ public class MajoritElement1Variation {
                 }
             }
         }
-        //index -1 -> stack me hona chahiye
-        //index 0 -> same hai cme to answer hai, varna stack me do elements hone chahiye(1 to pair up and 1 extra)
+
         if(listIndex < 0){//either we have eliminated all the elements from the stack
             if(stackIndex >= 0) {//then answer has to be in the stack
                 System.out.println(cme);
